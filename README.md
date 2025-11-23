@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm a 14 years old full-stack devloper(lol) and I like creating crazy things!
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 <!--
 **wenfeng110402/wenfeng110402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
