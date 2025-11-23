@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a 14 years old full-stack devloper(lol) and I like creating crazy things!
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+I'm a 14 years old full-stack devloper and I like creating crazy things!
+[![status](https://github-readme-stats.hackclub.dev/api/wakatime?username=21192&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical)]
 <!--
 **wenfeng110402/wenfeng110402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
