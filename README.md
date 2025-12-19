@@ -1,6 +1,14 @@
 ## Hi there 👋
-I'm a 14 years old full-stack devloper. Also a Hackclubber!
-![status](https://github-readme-stats.hackclub.dev/api/wakatime?username=21192&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical)
+<div align="center">
+  <img src="terminalreadme.svg" alt="Terminal" width="100%" />
+</div>
+
+## Stats
+<div align="left">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21192&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical" alt="Hackatime Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wenfeng110402&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=midnight-purple" alt="GitHub Streak" /></a>
+
 <!--
 **wenfeng110402/wenfeng110402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
