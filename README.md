@@ -5,8 +5,9 @@
 
 ## Stats
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wenfeng110402&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=midnight-purple" alt="GitHub Streak" /></a>
+<img src="https://github-stats-eta-two.vercel.app/api/stats/wenfeng110402?theme=github" alt="Developer Score">
 
 <!--
 **wenfeng110402/wenfeng110402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
