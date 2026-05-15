@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm a full-stack developer.
 <div align="center">
-  <img src="terminalreadme.svg" alt="Terminal" width="75%" />
+  <img src="terminalreadme-zh.svg" alt="Terminal" width="75%" />
 </div>
 
 ## Stats
 <table>
   <tr>
     <td><img src="https://edge-readme-stats.dancodes.online/stats?username=wenfeng110402&lang=zh"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=midnight-purple"></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=dark&locale=zh_Hans&hide_longest_streak=true" alt="GitHub Streak" /></a></td>
   </tr>
 </table>
 
