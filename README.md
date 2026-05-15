@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a full-stack developer.
 <div align="center">
-  <img src="terminalreadme.svg" alt="Terminal" width="100%" />
+  <img src="terminalreadme.svg" alt="Terminal" width="75%" />
 </div>
 
 ## Stats
@@ -10,6 +10,8 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=midnight-purple"></td>
   </tr>
 </table>
+
+![Contribution Heatmap](https://edge-readme-stats.dancodes.online/heatmap?username=wenfeng110402&theme=dark&lang=zh)
 
 <img src="https://github-stats-eta-two.vercel.app/api/stats/wenfeng110402?theme=github" alt="Developer Score">
 
