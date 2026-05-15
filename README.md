@@ -4,9 +4,13 @@
 </div>
 
 ## Stats
-<div align="left">
+<table>
+  <tr>
+    <td><img src="https://edge-readme-stats.dancodes.online/stats?username=wenfeng110402&lang=zh"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=midnight-purple"></td>
+  </tr>
+</table>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=midnight-purple" alt="GitHub Streak" /></a>
 <img src="https://github-stats-eta-two.vercel.app/api/stats/wenfeng110402?theme=github" alt="Developer Score">
 
 <!--
