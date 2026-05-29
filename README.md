@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a full-stack developer.
 <div align="center">
-  <img src="terminalreadme-zh.svg" alt="Terminal" width="75%" />
+  <img src="terminalreadme.svg" alt="Terminal" width="75%" />
 </div>
 
 ## Stats
