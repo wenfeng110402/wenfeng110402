@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><img src="https://edge-readme-stats.dancodes.online/stats?username=wenfeng110402&lang=zh"></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wenfeng110402&theme=dark&locale=zh_Hans&hide_longest_streak=true" alt="GitHub Streak" /></a></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wenfeng110402" alt="GitHub Streak" /></a></td>
   </tr>
 </table>
 
