@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><img src="https://edge-readme-stats.dancodes.online/stats?username=wenfeng110402&lang=zh"></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wenfeng110402" alt="GitHub Streak" /></a></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=wenfeng110402&layout=donut&langs_count=6&theme=dark"></td>
   </tr>
 </table>
 <img src="https://trophy.ryglcloud.net/?username=wenfeng110402&theme=light" alt="tropystatus" />
