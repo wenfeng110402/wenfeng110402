@@ -10,6 +10,7 @@
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wenfeng110402" alt="GitHub Streak" /></a></td>
   </tr>
 </table>
+<img src="https://trophy.ryglcloud.net/?username=wenfeng110402&theme=light" alt="tropystatus" />
 
 ![Contribution Heatmap](https://edge-readme-stats.dancodes.online/heatmap?username=wenfeng110402&theme=dark&lang=zh)
 
